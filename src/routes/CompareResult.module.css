@@ -1,0 +1,15 @@
+.table {
+    border: 6px hidden;
+}
+
+.thead tr td {
+    border: 6px hidden;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.tbody tr td {
+    border: 26px hidden;
+    padding: 10px;
+    background-image: linear-gradient(white, lightgray);
+}

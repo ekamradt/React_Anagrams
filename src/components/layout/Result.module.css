@@ -1,0 +1,8 @@
+.result {
+    /*background-color: #AEF7FC;*/
+    background-image: linear-gradient(white, lightgray);
+    border-radius: 6px;
+    /*box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);*/
+    margin: 10px 5px 5px 55px;
+    padding: 5px 5px 5px 10px;
+}
